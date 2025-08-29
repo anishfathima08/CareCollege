@@ -1,4 +1,5 @@
-🎓 Care College  
+## 🎓 Care College  
+
 Welcome to Care College!  
 
 Care College is a **college website frontend project** built using **HTML, CSS, Bootstrap, and JavaScript**.  
